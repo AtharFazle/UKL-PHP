@@ -1,0 +1,17 @@
+.table {
+  padding-top: 1.5rem;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.judul {
+  text-align-last: center;
+  justify-content: center;
+  padding-top: 2rem;
+  font-size: 50px;
+}
+h3 {
+  font-size: 50px;
+}

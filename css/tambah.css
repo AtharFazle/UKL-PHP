@@ -1,0 +1,12 @@
+.container {
+  padding-top: 2rem;
+}
+.button {
+  padding-top: 2rem;
+}
+.judul {
+  font-weight: bold;
+  padding-top: 2rem;
+  justify-content: center;
+  text-align-last: center;
+}

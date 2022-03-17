@@ -1,0 +1,16 @@
+.form {
+  justify-content: center;
+  align-self: center;
+
+  padding-left: 10%;
+  padding-right: 10%;
+}
+h3 {
+  text-align: center;
+  justify-content: center;
+  padding-top: 2rem;
+  font-size: 50px;
+}
+.button {
+  padding-top: 2rem;
+}
